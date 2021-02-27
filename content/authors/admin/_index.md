@@ -29,15 +29,15 @@ education:
       year: 2017
     - course: "BEng in Computer Science "
       institution: Tongji University
-      year: 2009
+      year: 2011
 email: ""
 superuser: true
 highlight_name: false
 ---
-Bo Yuan is currently a Lecturer in Computing and academic in Data Science Research Centre, with School of Computing and Engineering, University of Derby, UK.
+<p style='text-align: justify;'>  Bo Yuan is currently a Lecturer in Computing and academic in Data Science Research Centre, with School of Computing and Engineering, University of Derby, UK.
 
 With his team in the data science centre, he explores applied machine learning techniques and business-oriented data science to help industrial companies establish cost-effective IT infrastructures and the state-of-the-art AI solutions. He is specialising in helping business use analytics to make data-driven decisions and gain competitive advantage.
 
-I am also served as an academic lead who promotes strong collaboration and enhance international influence for research-intensive universities in the UK and Jiangsu Province in China.
+I am also served as an academic lead who promotes strong collaboration and enhance international influence for research-intensive universities in the UK and Jiangsu Province in China. </p>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
