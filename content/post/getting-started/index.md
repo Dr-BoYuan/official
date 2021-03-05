@@ -1,6 +1,6 @@
 ---
-title: Welcome to my personal site
-subtitle: Hey, thank you for visting my persona academic website. If you are
+title: Welcome to my site
+subtitle: Hey, thank you for visting my personal academic site. If you are
   interested in my research, please do not hesitate to get in touch.
 date: 2021-03-05T17:49:33.319Z
 summary: I create effective and efficient AI and maching learning algorithms for
