@@ -1,7 +1,7 @@
 ---
 title: Bo Yuan
 role: Lecturer in (Assistant Professor) Computing and Data Science
-avatar_filename: https://cdn-derbyacuk.terminalfour.net/media/derbyacuk/staff-profile-images/Bo-Yuan---Profile-(1).jpg
+avatar_filename: profile.jpg
 bio: My research interests include Data Science for Business, Cloud Computing
   Solutions, Applied AI, XAI, Induestrial IoT and Distributed Edge Computing
 interests:
@@ -18,16 +18,16 @@ social:
     link: https://scholar.google.com/citations?user=F5iio5IAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: linkedin.com/in/dr-boyuan
+    link: https://linkedin.com/in/dr-boyuan
 organizations:
   - name: University of Derby
     url: https://www.derby.ac.uk/
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD (with Integrated MSc) in Computer Science
       institution: Tongji University
       year: 2017
-    - course: "BEng in Computer Science "
+    - course: BEng in Computer Science and Technology
       institution: Tongji University
       year: 2011
 email: ""
