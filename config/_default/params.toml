@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "boyuan.uk(AT)gmailcom"
+email = "boyuan.uk(AT)gmail.com"
 phone = "Not in service at the moment"
 
 # Address
@@ -100,7 +100,7 @@ address = {street = "Markeaton Street", city = "Derby", region = "DerbyShire", p
 coordinates = {latitude = "52.929240177628806", longitude = "-1.4977347852856437"} 
 
 # Directions for visitors to locate you.
-directions = "Enter the STEM Building and go to Office MS312 Office"
+directions = "Enter the STEM Building and go to 3rd floor Office MS312"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
