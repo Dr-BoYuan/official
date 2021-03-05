@@ -6,8 +6,10 @@ bio: My research interests include Data Science for Business, Cloud Computing
   Solutions, Applied AI, XAI, Induestrial IoT and Distributed Edge Computing
 interests:
   - Artificial Intelligence
+  - Data Science
+  - Deep Learning
   - Distributed Computing
-  - Online Social Networks
+  - IoT
   - Information Retrieval
 social:
   - icon: envelope
@@ -34,10 +36,12 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-<p style='text-align: justify;'>  Bo Yuan is currently a Lecturer in Computing and academic in Data Science Research Centre, with School of Computing and Engineering, University of Derby, UK.
+<p style='text-align: justify;'>
 
-With his team in the data science centre, he explores applied machine learning techniques and business-oriented data science to help industrial companies establish cost-effective IT infrastructures and the state-of-the-art AI solutions. He is specialising in helping business use analytics to make data-driven decisions and gain competitive advantage.
+Hey, welcome to my personal website.
+
+ I am currently a Lecturer in Computing and academic in Data Science Research Centre, with School of Computing and Engineering, University of Derby, UK.
+
+With my team in the research centre, I explore applied machine learning techniques and business-oriented data science to help companies establish cost-effective IT infrastructures and develop state-of-the-art AI solutions. I am specialising in helping business use analytics to make data-driven decisions and gain competitive advantage.
 
 I am also served as an academic lead who promotes strong collaboration and enhance international influence for research-intensive universities in the UK and Jiangsu Province in China. </p>
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
