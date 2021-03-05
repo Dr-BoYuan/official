@@ -22,24 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Lecturer (Assistant Professor)
+    Organisation: University of Derby
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Derby, UK
+    date_start: '2019-05-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Teaching UG and PG level modules (Information Technology)
+        * Research and PhD supervision
+        * Regional and International Collaboration
+        * Grant Bid
         
-  - title: Professor
-    company: University X
+  - title: KTP Data Scientist
+    Organisation: University of Derby and Solutions for Retail Brands
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Nottingham, UK
+    date_start: '2017-06-01'
+    date_end: '2019-04-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Research and development of predictive AI algorithms for retail businesses
+        * NLP and sentiment analysis of customer complaints
+        * Correlation and causation analysis
 ---
