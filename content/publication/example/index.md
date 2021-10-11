@@ -48,12 +48,12 @@ image:
   caption: The query match method for resource discovery in decentralised
     computing environments
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: tii.jpg
   alt_text: A novel nework embedding approach for decentralised edge computing
 date: 2021-03-01T15:56:37.344Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
