@@ -42,7 +42,7 @@ highlight_name: false
 
 Hey, welcome to my personal website.
 
- I am currently a Lecturer in Computing and academic in Data Science Research Centre, with School of Computing and Engineering, University of Derby, UK.
+I am currently a Lecturer in Computing and a faculty member in Data Science Research Centre, with School of Computing and Engineering, University of Derby, UK.
 
 I explore applied machine learning techniques and business-oriented data science to help companies establish cost-effective IT infrastructures and develop state-of-the-art AI solutions. I am specialising in helping business use analytics to make data-driven decisions and gain competitive advantage.
 
