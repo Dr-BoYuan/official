@@ -1,5 +1,5 @@
 ---
-title: " Knowledge Transfer Partnership"
+title: " Knowledge Transfer Partnership (KTP)"
 subtitle: Solutions for Retail Brands Limited & University of Derby
 date: 2021-10-18T20:23:41.985Z
 draft: false
