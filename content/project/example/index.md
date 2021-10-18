@@ -23,4 +23,4 @@ image:
   filename: ""
 url_code: ""
 ---
-Project objective: to introduce the capability to develop a system which will take a live data stream from a source data system and parse it so that it can be visualised instantly in a virtual environment.
+Project aim : to introduce the capability to develop a system which will take a live data stream from a source data system and parse it so that it can be visualised instantly in a virtual environment.
