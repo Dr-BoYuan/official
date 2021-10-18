@@ -25,7 +25,13 @@ organizations:
   - name: University of Derby
     url: https://www.derby.ac.uk/
 education:
-  courses: []
+  courses:
+    - course: Postgraduate Certificate in Higher Education
+      institution: University of Derby
+      year: 2021
+    - course: PhD in Computer Science
+      institution: University of Derby
+      year: 2016
 email: ""
 superuser: true
 highlight_name: false
