@@ -31,10 +31,12 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Teaching UG and PG level modules (Information Technology)
-        * Research and PhD supervision
-        * Regional and International Collaboration
-        * Grant Bid
+        * Teaching Undergraduate and Postgraduate modules
+        * Supervising final year projects and dissertation
+        * Supervising PhD students
+        * Developing regional and international collaboration
+        * Bidding for research funding
+        * Contributing to REF2021 submission (publications and impact case study)
         
   - title: KTP Data Scientist
     Organisation: University of Derby and Solutions for Retail Brands
@@ -45,7 +47,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Research and development of predictive AI algorithms for retail businesses
-        * NLP and sentiment analysis of customer complaints
+        * Research and development of predictive AI algorithms for retail big data
+        * Sentiment analysis of customer complaints
         * Correlation and causation analysis
+        * AI-driven data products
 ---
