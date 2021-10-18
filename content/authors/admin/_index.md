@@ -9,8 +9,8 @@ interests:
   - Data Science
   - Deep Learning
   - Distributed Computing
-  - IoT
-  - Information Retrieval
+  - Internet of Things
+  - Edge Computing
 social:
   - icon: envelope
     icon_pack: fas
