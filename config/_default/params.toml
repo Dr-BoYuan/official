@@ -88,8 +88,8 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "boyuan.uk(AT)gmail.com"
-phone = "Not in service at the moment"
+email = "boyuan.uk@gmail.com"
+#phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -100,11 +100,11 @@ address = {street = "Markeaton Street", city = "Derby", region = "DerbyShire", p
 coordinates = {latitude = "52.929240177628806", longitude = "-1.4977347852856437"} 
 
 # Directions for visitors to locate you.
-directions = "Enter the STEM Building and go to 3rd floor Office MS312"
+directions = "STEM Building in Markeaton Campus"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 12:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/dr-boyuan"
