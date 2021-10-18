@@ -1,13 +1,13 @@
 ---
 slides: example
 url_pdf: ""
-title: Knowledge Transfer Partnership - Bloc Digial
+title: Knowledge Transfer Partnership
 summary: ""
 url_video: ""
 date: 2021-03-01T16:52:35.610Z
 external_link: https://bloc-digital.com/
 url_slides: ""
-subtitle: University of Derby & Bloc Graphics Limited (03 July 2018 - 18 June 2022)
+subtitle: University of Derby & Bloc Graphics Limited
 tags:
   - VirtualReality
   - VR
