@@ -27,11 +27,13 @@ organizations:
 education:
   courses:
     - course: Postgraduate Certificate in Higher Education
-      institution: University of Derby
-      year: 2021
+      institution: University of Derby, UK
+      year: ""
     - course: PhD in Computer Science
-      institution: University of Derby
-      year: 2016
+      institution: University of Derby, UK
+      year: ""
+    - course: BEng in Computer Science
+      institution: Tongji University, China
 email: ""
 superuser: true
 highlight_name: false
