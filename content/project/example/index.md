@@ -7,7 +7,7 @@ url_video: ""
 date: 2021-03-01T16:52:35.610Z
 external_link: https://bloc-digital.com/
 url_slides: ""
-subtitle: University of Derby & Bloc Graphics Limited
+subtitle: "Bloc Graphics Limited & University of Derby "
 tags:
   - VirtualReality
   - VR
