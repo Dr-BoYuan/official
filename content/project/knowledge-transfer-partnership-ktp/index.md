@@ -4,7 +4,8 @@ subtitle: Financial Performance Solutions Limited & University of Derby (KTP)
 date: 2021-10-18T20:17:21.500Z
 draft: false
 featured: false
-external_link: https://www.fpsreporting.com/
+external_link: "#"
+links: []
 image:
   filename: picture2.jpg
   focal_point: Smart
