@@ -1,7 +1,7 @@
 ---
 title: Bo Yuan
 role: Lecturer in (Assistant Professor) Computing and Data Science
-avatar_filename: profile.jpg
+avatar_filename: 微信图片_20211112211143_副本.jpg
 bio: My research interests include Data Science, Artificial Intelligence,
   Machine Learning, Internet of Things, Distributed Computing, Edge Computing
 interests:
@@ -42,8 +42,6 @@ highlight_name: false
 
 Hey, welcome to my personal website.
 
-I am currently a Lecturer in Computing and a faculty member in Data Science Research Centre, with School of Computing and Engineering, University of Derby, UK.
+I am currently a Lecturer in Computer Science, at the School of Computing and Mathematical Sciences, University of Leicester, UK.  My research is at the forefront of AI, Edge Computing and Data Science for intelligent distributed systems which have significant potential in harnessing data-intensive systems (such as IoT networks, Cloud-Edge analytics and cyber-physical systems) for real-time data processing.
 
-I explore applied machine learning techniques and business-oriented data science to help companies establish cost-effective IT infrastructures and develop state-of-the-art AI solutions. I am specialising in helping business use analytics to make data-driven decisions and gain competitive advantage.
-
-I am also served as an academic lead who promotes strong collaboration and enhance international influence for research-intensive universities in the UK and China. </p>
+I am also serving as an academic lead of the Autonomous System Hub which offers a range of research-led projects (Driverless cars, robotic arms, drones, etc) to foster students' research and problem-solving skills. </p>
