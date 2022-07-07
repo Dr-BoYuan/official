@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://linkedin.com/in/dr-boyuan
 organizations:
-  - name: University of Derby
-    url: https://www.derby.ac.uk/
+  - name: University of Leicester
+    url: https://le.ac.uk/
 education:
   courses:
     - course: Postgraduate Certificate in Higher Education
