@@ -6,5 +6,5 @@ weight: 10
 title: Passionate Data Scientist
 active: true
 author: admin
-subtitle: It is never to late to learn
+subtitle: It is never too old to learn
 ---
