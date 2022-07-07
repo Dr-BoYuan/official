@@ -1,7 +1,7 @@
 ---
 title: Bo Yuan
 role: Lecturer in (Assistant Professor) Computer Science
-avatar_filename: 微信图片_20211112211143_副本.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Data Science, Artificial Intelligence,
   Machine Learning, Internet of Things, Distributed Computing, Edge Computing
 interests:
