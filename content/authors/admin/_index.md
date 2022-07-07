@@ -42,6 +42,6 @@ highlight_name: false
 
 Hey, welcome to my personal website.
 
-I am currently a Lecturer in Computer Science, at the School of Computing and Mathematical Sciences, University of Leicester, UK.  My research is at the forefront of AI, Edge Computing and Data Science for intelligent distributed systems which have significant potential in harnessing data-intensive systems (such as IoT networks, Cloud-Edge analytics and cyber-physical systems) for real-time data processing.
+I am currently a Lecturer in Computer Science, at the School of Computing and Mathematical Sciences, University of Leicester, UK.  My research is at the forefront of AI, Edge Computing and Data Science in intelligent distributed systems which have significant potential in harnessing data-intensive systems (such as IoT networks, Cloud-Edge analytics and cyber-physical systems) for real-time data processing.
 
 I am also serving as an academic lead of the Autonomous System Hub which offers a range of research-led projects (Driverless cars, robotic arms, drones, etc) to foster students' research and problem-solving skills. </p>
