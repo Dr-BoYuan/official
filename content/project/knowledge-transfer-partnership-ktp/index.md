@@ -1,13 +1,21 @@
 ---
-title: Knowledge Transfer Partnership (KTP)
-subtitle: Financial Performance Solutions Limited & University of Derby
+title: Business Data Science for Cloud Edge Computing
+subtitle: Financial Performance Solutions Limited & University of Derby (KTP)
 date: 2021-10-18T20:17:21.500Z
 draft: false
 featured: false
-external_link: https://info.ktponline.org.uk/action/details/partnership.aspx?id=11671
+external_link: https://www.fpsreporting.com/
 image:
-  filename: featured
+  filename: picture2.jpg
   focal_point: Smart
   preview_only: false
 ---
-Project aim: To develop the Business Intelligence Software and become a UK market leader for Real Time Web based reporting, initially in the automotive industry, then other sectors.
+Project description: Development of the Business Intelligence Software for Real Time Web-based reporting in the automotive industry.
+
+The challenges of this project include:
+• Need consistent connections from different sources of client data & convert for intelligent reporting
+• Standardisation of varied formats - procuring, storing, handling and analysing staff and client data safely
+• Collaboration in receiving data streams from distributed databases and interpreting, harmonising, and streaming this data efficiently to develop data processing algorithms
+• Ensuring data is stored and processed safely and conforms to GDPR
+• New target markets present challenges in terms of sharing data due to regulatory, competitive and system challenges
+• Monitoring of system and storage performance to ensure no downtime or breaks in reporting solution to ensure client service levels are met
