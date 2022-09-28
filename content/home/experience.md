@@ -26,7 +26,7 @@ experience:
     Organisation: University of Leicester
     company_url: ''
     location: Leicester, UK
-    date_start: '2022-01'
+    date_start: '2022-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -41,8 +41,8 @@ experience:
     Organisation: University of Derby
     company_url: ''
     location: Derby, UK
-    date_start: '2019-05'
-    date_end: '2021-12'
+    date_start: '2019-05-01'
+    date_end: '2021-12-30'
     description: |2-
         Responsibilities include:
         
@@ -53,8 +53,8 @@ experience:
     Organisation: Solutions for Retail Brands (KTP project)
     company_url: ''
     location: Nottingham, UK
-    date_start: '2017-06'
-    date_end: '2019-04'
+    date_start: '2017-06-01'
+    date_end: '2019-04-01'
     description: |2-
         Responsibilities include:
         
