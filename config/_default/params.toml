@@ -93,18 +93,18 @@ email = "boyuan.uk@gmail.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Markeaton Street", city = "Derby", region = "DerbyShire", postcode = "DE22 3AW", country = "United Kingdom", country_code = "UK"}
+address = {street = "University Road", city = "Leicester", region = "LeicesterShire", postcode = "LE1 7RH", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.929240177628806", longitude = "-1.4977347852856437"} 
+coordinates = {latitude = "52.62145270063933", longitude = "-1.1255864242303546"} 
 
 # Directions for visitors to locate you.
-directions = "STEM Building in Markeaton Campus"
+directions = "Ken Edwards Building in Main Campus"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 12:00"]
+office_hours = ["Tuesdays 10:00 to 13:00", "Wednesday 09:00 to 11:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/dr-boyuan"
