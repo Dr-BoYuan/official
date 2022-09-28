@@ -23,27 +23,38 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Lecturer (Assistant Professor)
+    Organisation: University of Leicester
+    company_url: ''
+    location: Leicester, UK
+    date_start: '2022-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Teaching Undergraduate modules
+        * Supervising final year projects and MSc projects
+        * Supervising PhD students
+        * Developing regional and international collaboration
+        * Bidding for research funding
+   
+ - title: Lecturer (Assistant Professor)
     Organisation: University of Derby
     company_url: ''
     location: Derby, UK
-    date_start: '2019-05-01'
-    date_end: ''
+    date_start: '2019-05'
+    date_end: '2021-12'
     description: |2-
         Responsibilities include:
         
         * Teaching Undergraduate and Postgraduate modules
         * Supervising final year projects and dissertation
-        * Supervising PhD students
-        * Developing regional and international collaboration
-        * Bidding for research funding
-        * Contributing to REF2021 submission (publications and impact case study)
-        
-  - title: KTP Data Scientist
-    Organisation: University of Derby and Solutions for Retail Brands
+         
+  - title: Data Scientist
+    Organisation: Solutions for Retail Brands (KTP project)
     company_url: ''
     location: Nottingham, UK
-    date_start: '2017-06-01'
-    date_end: '2019-04-30'
+    date_start: '2017-06'
+    date_end: '2019-04'
     description: |2-
         Responsibilities include:
         
