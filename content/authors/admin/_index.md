@@ -26,13 +26,13 @@ organizations:
     url: https://le.ac.uk/
 education:
   courses:
-    - course: Postgraduate Certificate in Higher Education
+    - course: PGCert Teaching in Higher Education
       institution: University of Derby, UK
       year: ""
     - course: PhD in Computer Science
       institution: University of Derby, UK
       year: ""
-    - course: BEng in Computer Science
+    - course: BE in Computer Science and Technology
       institution: Tongji University, China
 email: ""
 superuser: true
