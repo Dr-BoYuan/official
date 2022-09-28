@@ -19,7 +19,7 @@ image:
   placement: 2
   preview_only: false
 ---
-# **My research focus**
+# **My research themes**
 
 **Main direction: Decentralise social computing and mobile computing**
 
